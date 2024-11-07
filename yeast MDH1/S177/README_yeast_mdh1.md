@@ -14,7 +14,7 @@ and there are no functional studies of the role of this site in yeast metabolism
 # Comparison of MDH1 models and phospho modified MDH1
 
 1. Alignment of MDH1, MDH1 with phosphoS 177 (orange), and S177D (magenta)
-![Alignment of MDH1, MDH1 with phosphoS 177, and S177D](images/align.png){: wdith = "200px"}
+![Alignment of MDH1, MDH1 with phosphoS 177, and S177D](images/align.png){: width = "200px"}
 
 
 2. Modification site alignment within MDH1
@@ -24,7 +24,7 @@ The modification site is near to R174 and E178 and could make ionic or hydrogen 
 
 ## Effect of the sequence variant and PTM on MDH dynamics
 
-The RMSD of the final frame from MD simulations of MDH1 and MDHS177D was 0.76 ≈. The unmodified MDH1 is shown in greent while the modified form is shown in purple. 
+The RMSD of the final frame from MD simulations of MDH1 and MDHS177D was 0.76 √Ö. The unmodified MDH1 is shown in green while the modified form is shown in purple. 
 ![alt text](images/md_align.png)
 
 
@@ -34,7 +34,7 @@ After simulation, the overall protein structures are similar as well as the area
 ![alt text](images/md_site.png)
 
 ### Comparison of the enzyme dynamics
-After simulation, the dynamics as described by the root mean square flucuation (RMSF) value were compared. In the plot, there are differences between the unmodified (purple) and S177D (green) around amino acids 400 and 500. These sites are loops bordering the active site. The difference around residue 400 is the active site loop which is key for binding the carboxylic acid substrate. The vertical line indicates the end of one subunit and the beginning of the next subunit of the MDH1 dimer.
+After simulation, the dynamics as described by the root mean square fluctuation (RMSF) value were compared. In the plot, there are differences between the unmodified (purple) and S177D (green) around amino acids 400 and 500. These sites are loops bordering the active site. The difference around residue 400 is the active site loop which is key for binding the carboxylic acid substrate. The vertical line indicates the end of one subunit and the beginning of the next subunit of the MDH1 dimer.
 
 ![alt text](images/rmsf_compare.png)
 
@@ -50,7 +50,7 @@ Overall the modification did not affect the pKa values of the active site histid
 
 
 ## Comparison of the mimic and the authentic PTM
-The RMSD MDHS177D and phosphoS177 MDH1 was 0.48 ≈. The overall structures are similar with no major differences in structure or position.
+The RMSD MDHS177D and phosphoS177 MDH1 was 0.48 √Ö. The overall structures are similar with no major differences in structure or position.
 
 ![alt text](images/mod_compare.png)
 
@@ -76,4 +76,4 @@ This work is licensed under a
 
 ## References
 
-* Reinders, Jˆrg, et al. ìProfiling Phosphoproteins of Yeast Mitochondria Reveals a Role of Phosphorylation in Assembly of the ATP Synthase.î Molecular & Cellular Proteomics: MCP, vol. 6, no. 11, Nov. 2007, pp. 1896ñ906. PubMed, https://doi.org/10.1074/mcp.M700098-MCP200.
+* Reinders, J√∂rg, et al. ‚ÄúProfiling Phosphoproteins of Yeast Mitochondria Reveals a Role of Phosphorylation in Assembly of the ATP Synthase.‚Äù Molecular & Cellular Proteomics: MCP, vol. 6, no. 11, Nov. 2007, pp. 1896‚Äì906. PubMed, https://doi.org/10.1074/mcp.M700098-MCP200.
