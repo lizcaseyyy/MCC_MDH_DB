@@ -1,14 +1,14 @@
-# Welcome to the MCC MDH database
-This repository contains the results and summaries on the MDH structure and function from the MDH CURES community. The data and conclusions drawn from the data are provided as-is and are accurate to the date noted in the README file within each folder. 
+# Malate Dehydrogenase 2
 
+# Uniprot ID: P40926
 
+# Variation: Mimic variant and PTM at site 155 in MDH2
 
-# Participating Institutions
-James Madison University -- Dr. Chris Berndsen
+# Description: 
+Asp 155 is the location of the mimic variant in MDH2. TPO 155 is the location of the PTM in MDH2. No previous research has been performed on this varaition site. 
 
-
-
-
+# Comparison of MDH2, mimic variant and PTM at site 155
+Alignment of MDH2 (brown and grey) , MDH2 with mimic variant (magenta and pink) , and MDH2 with PTM (yellow and green)
 ## License
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
